@@ -1,2 +1,21 @@
-Yahel Alejandro Jiménez Fernández | A01736980
-Acá se suponen van sus nombres y Deben colocar qué hicieron cada quién, la verdad estoy a nada de desmayarme entonces ustedes decidan qué hicieron jaja.
+Yahel Alejandro Jiménez Fernández A01736980
+Pseudocódigo
+Función findCommonSubstrings
+Función similarityMetric
+Función broderContainment
+Principal redactor del main
+
+Francisco Antonio López Ricardez A01737275
+Pseudocódigo
+Función editDistance
+Función generateSimilarityMatrix
+Función comparePairs
+main
+
+Alejandro Santana Moreno A01733717
+Pseudocódigo
+Función readFile
+Función editDistance
+Función highlightSimilarities
+main
+
